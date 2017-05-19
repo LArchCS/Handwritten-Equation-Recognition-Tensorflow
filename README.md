@@ -23,4 +23,6 @@ Read the `report`
 
 ## Version
 1. 2017.05.05
+
+##
 2. I got a A+ for my COSI 101A Artificial intelligence class by this term project
