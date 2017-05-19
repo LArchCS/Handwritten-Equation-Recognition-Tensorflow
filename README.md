@@ -1,7 +1,7 @@
 # EquationRecognition
 
 ## Description
-Recognize hand-written equations.
+Recognize hand-written equations using convolutional neural network, and output in Latex formats.
 
 ## Dependencies
 - pickle	
