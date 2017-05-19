@@ -18,7 +18,7 @@ Recognize hand-written equations using convolutional neural network, and output 
 2. `train_model` to train your model.
 3. `predict.py` to test your model.  
 
-## Building deteails
+## Model Architecture
 Read the `report`
 
 ## Version
