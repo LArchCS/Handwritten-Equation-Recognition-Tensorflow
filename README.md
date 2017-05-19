@@ -22,7 +22,7 @@ Recognize hand-written equations using convolutional neural network, and output 
 Read the `report`
 
 ## Version
-1. 2017.05.05
+2017.05.05
 
 ##
-2. I got a A+ for my COSI 101A Artificial intelligence class by this term project
+This model performs the best in my COSI 101A Artificial intelligence class. I got a A+ for this course at the end.
