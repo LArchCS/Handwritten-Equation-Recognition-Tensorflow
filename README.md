@@ -22,5 +22,5 @@ Recognize hand-written equations using convolutional neural network, and output 
 Read the `report`
 
 ## Version
-1.0
-I got a `A+` for my `COSI 101A Artificial intelligence` class on this term project
+1. 1.0
+2. I got a `A+` for my COSI 101A Artificial intelligence class by this term project
