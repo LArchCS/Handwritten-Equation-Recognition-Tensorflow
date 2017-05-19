@@ -23,3 +23,4 @@ Read the `report`
 
 ## Version
 1.0
+I got a `A+` for my `COSI 101A Artificial intelligence` class on this term project
