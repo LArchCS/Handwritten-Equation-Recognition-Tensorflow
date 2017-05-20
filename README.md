@@ -25,4 +25,4 @@ Read the `report`
 2017.05.05
 
 ##
-This model performs the best in my COSI 101A Artificial intelligence class. I got a A+ for this course at the end.
+I got a A+ for my COSI Artificial Intelligence course at the end.
