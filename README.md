@@ -25,4 +25,4 @@ Read the `report`
 2017.05.05
 
 ##
-This course project got a A+ in Spring/2017 COSI 101A Artificial Intelligence class.
+This course project got an A+ in Spring/2017 COSI 101A Artificial Intelligence class.
